@@ -1,22 +1,24 @@
-# Task distribution documents(TDD)
+# Work task distribution documents(WTDD)
 
 > This repository is save the plan of work.
 >> id | status | version | Workers
 >> -- | ------ | ------- | -------
->> [001](TDD-001.md) | working  | NoVersion | @keyskull 
->> [002](TDD-002.md) | pendding | NoVersion | NoOne
->> [003](TDD-003.md) | pendding | NoVersion | NoOne
->> [004](TDD-004.md) | pendding | NoVersion | NoOne
+>> [001](001.md) | working  | NoVersion | @keyskull 
+>> [002](002.md) | pendding | NoVersion | NoOne
+>> [003](003.md) | pendding | NoVersion | NoOne
+>> [004](004.md) | pendding | NoVersion | NoOne
+ 
  
  # Documents Format
 * Id fold up
-* Make file name must like this: *TDD-`Id`.md*
+* Make file name must be id,just like that: *`001.md`*
 * The file content must include the following headers fromat:
  > # Example:
  >> ## Title Name
  >>> #### Document Id : (exp:) 001
- >>> #### Document Leader:
- >>> #### Project link:
+ >>> #### Document Leader: exp. @keyskull
+ >>> #### Suport Project:
+ >>>
  >> -----------------------
  >> ## Modifiy record:
  >> user|time|description
