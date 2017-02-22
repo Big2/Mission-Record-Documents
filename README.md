@@ -4,8 +4,8 @@
 
  id |Task name | status | version | Workers
  ------------- | -------- | -------- | --------- | -----
- [001](001.md) | Firebase-Ui Add a compatibility scheme | Compled  | [1.1.1-compatible](https://github.com/Big2/FirebaseUI-Android/tree/1.1.1-compatible) | @keyskull 
- [002](002.md) || Planning | NoVersion | NoOne
+ [001](001.md) | Firebase-Ui Add a compatibility scheme | Completed  | [1.1.1-compatible](https://github.com/Big2/FirebaseUI-Android/tree/1.1.1-compatible) | @keyskull 
+ [002](002.md) | Blockchain implement | Planning | NoVersion | @keyskull
  [003](003.md) || Planning | NoVersion | NoOne
  [004](004.md) || Planning | NoVersion | NoOne
  
@@ -13,7 +13,7 @@
 
 * Working - Workers is coding Project.
 * Planning - This project just planning in the team.
-* Compled - The project in finish base method & can be use,but not ensure not have bug.
+* Completed - The project in finish base method & can be use,but not ensure not have bug.
 * Updating - The project in processing new version.
 * Old - This is old project will have a new project link to describe it.
 * Colsed - This project is not to support.
