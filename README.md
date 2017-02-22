@@ -23,7 +23,7 @@
  
 # Documents Format
 * Id fold up
-* Make file name must be id,just like that: *`001.md`*
+* Make file name must be id,just like that: [*`001.md`*](001.md)
 * The file content must include the following headers fromat:
   
   # Example:
