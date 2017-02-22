@@ -2,12 +2,12 @@
 
 > This repository is save the plan of work.
 
- id | status | version | Workers
- ------------- | -------- | --------- | -----
- [001](001.md) | Compled  | [1.1.1-compatible](https://github.com/Big2/FirebaseUI-Android/tree/1.1.1-compatible) | @keyskull 
- [002](002.md) | Planning | NoVersion | NoOne
- [003](003.md) | Planning | NoVersion | NoOne
- [004](004.md) | Planning | NoVersion | NoOne
+ id |Task name | status | version | Workers
+ ------------- | -------- | -------- | --------- | -----
+ [001](001.md) | Firebase-Ui Add a compatibility scheme | Compled  | [1.1.1-compatible](https://github.com/Big2/FirebaseUI-Android/tree/1.1.1-compatible) | @keyskull 
+ [002](002.md) || Planning | NoVersion | NoOne
+ [003](003.md) || Planning | NoVersion | NoOne
+ [004](004.md) || Planning | NoVersion | NoOne
  
 ## Work status description
 
