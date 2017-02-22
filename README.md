@@ -3,13 +3,20 @@
 > This repository is save the plan of work.
 
  id | status | version | Workers
- ------------- | ------ | ------- | -------
- [001](001.md) | compled  | [1.1.1-compatible](https://github.com/Big2/FirebaseUI-Android/tree/1.1.1-compatible) | @keyskull 
- [002](002.md) | pendding | NoVersion | NoOne
- [003](003.md) | pendding | NoVersion | NoOne
- [004](004.md) | pendding | NoVersion | NoOne
+ ------------- | -------- | --------- | -----
+ [001](001.md) | Compled  | [1.1.1-compatible](https://github.com/Big2/FirebaseUI-Android/tree/1.1.1-compatible) | @keyskull 
+ [002](002.md) | Planning | NoVersion | NoOne
+ [003](003.md) | Planning | NoVersion | NoOne
+ [004](004.md) | Planning | NoVersion | NoOne
  
- 
+ # Work status description
+* Working - Workers is coding Project.
+* Planning - This project just planning in the team.
+* Compled - The project in finish base method & can be use,but not ensure not have bug.
+* Updating - The project in processing new version.
+* Old - This is old project will have a new project link to describe it.
+* Colsed - This project is not to support.
+
  # Documents Format
 * Id fold up
 * Make file name must be id,just like that: *`001.md`*
