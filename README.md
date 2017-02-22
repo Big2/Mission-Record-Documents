@@ -28,8 +28,8 @@
   
   # Example:
   ## Title Name
-  #### Document Id : (exp:) 001
-  #### Document Leader: exp. @keyskull
+  #### Document Id : (e.g.) 001
+  #### Document Leader: (e.g.) @keyskull
   #### Suport Project:
  
  -----------------------
