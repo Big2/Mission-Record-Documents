@@ -1,8 +1,8 @@
-# Task record documents(TRD)
+# Mission record documents(TRD)
 
 > This repository is save the plan of work.
 
- id |Task name | status | version | Workers
+ id |Mission name | status | version | Workers
  ------------- | -------- | -------- | --------- | -----
  [001](001.md) | Firebase-Ui Add a compatibility scheme | Completed  | [1.1.1-compatible](https://github.com/Big2/FirebaseUI-Android/tree/1.1.1-compatible) | @keyskull 
  [002](002.md) | Blockchain implement | Planning | NoVersion | @keyskull
